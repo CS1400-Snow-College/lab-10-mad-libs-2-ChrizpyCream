@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-10-mad-libs-2-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6c0bcec480b8194a4f72306bb728cc83158411e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fa4251d76955a5f1cb1d2144b2ebdb390bb9f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-10-mad-libs-2-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-10-mad-libs-2-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
